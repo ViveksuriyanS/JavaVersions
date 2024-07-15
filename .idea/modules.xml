@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java 10/Java 10.iml" filepath="$PROJECT_DIR$/Java 10/Java 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 11/Java 11.iml" filepath="$PROJECT_DIR$/Java 11/Java 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 14/Java 14.iml" filepath="$PROJECT_DIR$/Java 14/Java 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 15/Java 15.iml" filepath="$PROJECT_DIR$/Java 15/Java 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 16/Java 16.iml" filepath="$PROJECT_DIR$/Java 16/Java 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 17/Java 17.iml" filepath="$PROJECT_DIR$/Java 17/Java 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 18/Java 18.iml" filepath="$PROJECT_DIR$/Java 18/Java 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 21/Java 21.iml" filepath="$PROJECT_DIR$/Java 21/Java 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 22/Java 22.iml" filepath="$PROJECT_DIR$/Java 22/Java 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 5/Java 5.iml" filepath="$PROJECT_DIR$/Java 5/Java 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 6/Java 6.iml" filepath="$PROJECT_DIR$/Java 6/Java 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 7/Java 7.iml" filepath="$PROJECT_DIR$/Java 7/Java 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8/Java 8.iml" filepath="$PROJECT_DIR$/Java 8/Java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 9/Java 9.iml" filepath="$PROJECT_DIR$/Java 9/Java 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaVersions.iml" filepath="$PROJECT_DIR$/.idea/JavaVersions.iml" />
+    </modules>
+  </component>
+</project>
