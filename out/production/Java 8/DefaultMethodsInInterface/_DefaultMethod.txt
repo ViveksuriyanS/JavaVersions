@@ -1,0 +1,5 @@
+Default Methods
+    - Created inside Interface
+    - 'default' keyword is used to denote a methods as default method
+    - Method with default implementation
+    - This default method can be override
