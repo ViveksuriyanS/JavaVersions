@@ -1,5 +1,9 @@
 In Java 5 
 
-- enum keyword
-- generics
-- autoboxing
+- Typesafe Enums keyword
+- G∂enerics
+- autoboxing and unboxing
+- Enhanced for loop
+- Variable Length Arguments
+- Static Import
+- Metadata Annotations
